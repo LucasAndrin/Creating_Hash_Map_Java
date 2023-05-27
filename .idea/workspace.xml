@@ -5,19 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95050620-5a77-4ae5-8305-99c26b1aa224" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TabelasDispersao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashmap/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashtable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/RandomStringGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/map/HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/map/Knot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/map/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dictionary/MainDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/map/Dictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hashmap/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashmap/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hashtable/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/map/HashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/map/Knot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/map/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/map/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/map/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +44,26 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashmap.Main" />
+  <component name="RunManager" selected="Application.MainHashMap">
+    <configuration name="MainDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainDictionary" />
       <module name="TabelasDispersao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashmap.*" />
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainHashMap" />
+      <module name="TabelasDispersao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,7 +73,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainHashMap" />
+        <item itemvalue="Application.MainDictionary" />
       </list>
     </recent_temporary>
   </component>
