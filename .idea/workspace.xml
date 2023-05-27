@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95050620-5a77-4ae5-8305-99c26b1aa224" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dictionary/MainDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/map/Dictionary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hashmap/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashmap/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hashtable/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/map/HashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/map/Knot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/map/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/map/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/map/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/hashtable/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/hashtable/Dictionary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -2,7 +2,7 @@ package utils.hashtable;
 
 public class Dictionary<K, V> {
 
-    private static final int MAXIMUM_SIZE = 50;
+    private static final int MAXIMUM_SIZE = 30;
 
     protected int length = 0;
 
